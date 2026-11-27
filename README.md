@@ -8,7 +8,7 @@ Entry for the [make.fun](https://make.fun/bounty/makefun-x-reposts-02?ref=zxv8k0
 
 ## How it works
 
-My posts on X (account [@semigajepe](https://x.com/semigajepe)) each quote or directly reply to a different one of [@makefunai](https://x.com/makefunai)'s newest posts. Every repost and quote of my posts scores 2 points, every like 1 point. The list of my posts lives in [`POSTS.json`](POSTS.json).
+My posts on X (account [@Kurni_awan1996](https://x.com/Kurni_awan1996)) each quote or directly reply to a different one of [@makefunai](https://x.com/makefunai)'s newest posts. Every repost and quote of my posts scores 2 points, every like 1 point. The list of my posts lives in [`POSTS.json`](POSTS.json).
 
 ## Files
 
@@ -27,7 +27,7 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 - Bounty: https://make.fun/bounty/makefun-x-reposts-02
 - make.fun (referral code `zxv8k0jn`): https://make.fun/?ref=zxv8k0jn
-- X account: https://x.com/semigajepe
+- X account: https://x.com/Kurni_awan1996
 
 ## License
 
